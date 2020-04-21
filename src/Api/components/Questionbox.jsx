@@ -16,3 +16,5 @@ import '../../style.css'
      )    
 }
 export default Questionbox
+
+// this is the questionbox component
